@@ -1,0 +1,24 @@
+:root {
+  --vp-c-brand: #705858;
+  --vp-c-brand-light: #705858;
+  --vp-c-brand-lighter: #705858;
+  --vp-c-brand-dark: #705858;
+  --vp-c-brand-darker: #705858;
+
+  --vp-c-sponsor: #705858;
+}
+
+.custom-layout {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 2rem auto 0;
+}
+.custom-layout .btn {
+  background-color: var(--vp-button-brand-bg);
+  color: var(--vp-button-brand-text);
+  border-radius: 20px;
+  padding: 0.5rem 1.4rem;
+}
