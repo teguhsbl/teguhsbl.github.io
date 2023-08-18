@@ -8,7 +8,7 @@ export default {
     siteTitle: "Teguh Sabila",
     nav: [
     { text: "Project", link: "/our-project"},
-    { text: "Notes", link: "/notes"},
+    { text: "Blog", link: "/notes"},
     { text: "About", link: "/about" },
     { text: "Contact", link: "/contact" },
     ],
