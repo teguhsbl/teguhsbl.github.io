@@ -7,8 +7,8 @@ export default {
     logo: "/me.jpg",
     siteTitle: "Teguh Sabila",
     nav: [
-    { text: "Project", link: "/our-project"},
-    { text: "Blog", link: "/notes"},
+    { text: "Project", link: "/project/"},
+    { text: "Blog", link: "/blog/"},
     { text: "About", link: "/about" },
     { text: "Contact", link: "/contact" },
     ],
